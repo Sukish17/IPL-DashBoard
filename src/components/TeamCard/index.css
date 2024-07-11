@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+}
+.bg1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  background-color: transparent;
+}
+p {
+  font-family: 'Robato';
+  font-size: 40px;
+  color: white;
+}
+.img1 {
+  height: 7vh;
+  width: 140px;
+}
